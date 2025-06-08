@@ -1,0 +1,502 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
+  <diagram name="Page-1" id="e2OLbAz3bTV_gMIaNGq7">
+    <mxGraphModel dx="2478" dy="-539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="H8HNsB6rmHnh3LckQYIF-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1484" y="3352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-1" value="HR Partner" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-1540" y="1420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="H8HNsB6rmHnh3LckQYIF-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1220" y="3352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-2" value="Sistem" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-1275" y="1420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="H8HNsB6rmHnh3LckQYIF-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-964" y="3352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-3" value="Şöbə müdiri" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-1020" y="1420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="H8HNsB6rmHnh3LckQYIF-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-714" y="3362" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-4" value="Namizəd" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="1420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1480" y="1570" as="sourcePoint" />
+            <mxPoint x="-1230" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-55" value="Tələblərlə vakansiya yaradır" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.016" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-1490" y="1550" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-1225" y="1550" width="10" height="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-22" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1215" y="1680" as="sourcePoint" />
+            <mxPoint x="-965" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-58" value="Vakansiyanın təsdiqi üçün sorğu göndərir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.144" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1215" y="1570" as="sourcePoint" />
+            <mxPoint x="-1210" y="1620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1130" y="1570" />
+              <mxPoint x="-1130" y="1620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1480" y="1660" as="sourcePoint" />
+            <mxPoint x="-1230" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-57" value="Vakansiyanı təsdiq üçün göndərir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-24" vertex="1" connectable="0">
+          <mxGeometry x="-0.104" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-26" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1215" y="2360" as="sourcePoint" />
+            <mxPoint x="-720" y="2360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-71" value="“Seçimdən keçmədi” bildirişi göndərir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-26" vertex="1" connectable="0">
+          <mxGeometry x="0.0509" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-970" y="1750" as="sourcePoint" />
+            <mxPoint x="-1210" y="1750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-59" value="Vakansiyanı nəzərdən keçirib təsdiq edir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-27" vertex="1" connectable="0">
+          <mxGeometry x="0.15" y="2" relative="1" as="geometry">
+            <mxPoint x="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-30" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1215" y="1940" as="sourcePoint" />
+            <mxPoint x="-1210" y="1990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1130" y="1940" />
+              <mxPoint x="-1130" y="1990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1225" y="2020" as="sourcePoint" />
+            <mxPoint x="-1465" y="2020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-66" value="Vakansiyanın yerləşdirildiyini bildirir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-31" vertex="1" connectable="0">
+          <mxGeometry x="0.1583" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="2060" as="sourcePoint" />
+            <mxPoint x="-1215" y="2060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-67" value="Portalda qeydiyyatdan keçir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.0206" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="2120" as="sourcePoint" />
+            <mxPoint x="-1215" y="2120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-68" value="Vakansiyaya baxır" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-33" vertex="1" connectable="0">
+          <mxGeometry x="0.0289" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="2180" as="sourcePoint" />
+            <mxPoint x="-1215" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-69" value="CV yükləyir və ya mövcud sənədi seçərək müraciət edir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-34" vertex="1" connectable="0">
+          <mxGeometry x="0.0289" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-35" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1215" y="2260" as="sourcePoint" />
+            <mxPoint x="-1210" y="2310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1130" y="2260" />
+              <mxPoint x="-1130" y="2310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-36" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1215" y="2390" as="sourcePoint" />
+            <mxPoint x="-1210" y="2440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1130" y="2390" />
+              <mxPoint x="-1130" y="2440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-37" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1230" y="2480" as="sourcePoint" />
+            <mxPoint x="-1470" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-73" value="Yeni namizəd haqqında bildiriş alır" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-37" vertex="1" connectable="0">
+          <mxGeometry x="0.0417" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-38" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1215" y="2520" as="sourcePoint" />
+            <mxPoint x="-720" y="2520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-75" value="“Seçimdən keçdi” bildirişi göndərir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-38" vertex="1" connectable="0">
+          <mxGeometry x="0.0261" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-39" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1470" y="2580" as="sourcePoint" />
+            <mxPoint x="-1230" y="2580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-76" value="Namizəd məlumatlarını nəzərdən keçirir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-39" vertex="1" connectable="0">
+          <mxGeometry x="0.0167" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-40" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1470" y="2650" as="sourcePoint" />
+            <mxPoint x="-1230" y="2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-77" value="Status &quot;rədd edildi&quot; olaraq yenilənir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-40" vertex="1" connectable="0">
+          <mxGeometry x="-0.125" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-41" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1470" y="2720" as="sourcePoint" />
+            <mxPoint x="-1230" y="2720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-81" value="Müsahibə planlaşdırılır" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-41" vertex="1" connectable="0">
+          <mxGeometry x="-0.1917" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-42" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1215" y="2690" as="sourcePoint" />
+            <mxPoint x="-720" y="2690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-80" value="&quot;Rədd edildi” bildirişi göndərilir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-42" vertex="1" connectable="0">
+          <mxGeometry x="0.0729" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-43" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1215" y="2760" as="sourcePoint" />
+            <mxPoint x="-720" y="2760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-82" value="Müsahibə dəvəti göndərir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-43" vertex="1" connectable="0">
+          <mxGeometry x="0.0509" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-44" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="3200" as="sourcePoint" />
+            <mxPoint x="-1215" y="3200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-91" value="İş təklifini qəbul edir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-44" vertex="1" connectable="0">
+          <mxGeometry x="-0.0014" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-45" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1470" y="2860" as="sourcePoint" />
+            <mxPoint x="-1230" y="2860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-84" value="Texniki və yumşaq bacarıqları qeyd edir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.0417" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-46" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1470" y="2920" as="sourcePoint" />
+            <mxPoint x="-1230" y="2920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-85" value="Status: “keçdi/rədd edildi” olaraq yenilənir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-46" vertex="1" connectable="0">
+          <mxGeometry x="-0.1083" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-47" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1215" y="2970" as="sourcePoint" />
+            <mxPoint x="-720" y="2970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-86" value="“Rədd edildi” bildirişi göndərilir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-47" vertex="1" connectable="0">
+          <mxGeometry x="0.0702" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-48" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1215" y="3140" as="sourcePoint" />
+            <mxPoint x="-720" y="3140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-90" value="Avtomatik iş təklifi emaili göndərir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-48" vertex="1" connectable="0">
+          <mxGeometry x="-0.1197" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-49" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1465" y="3000" as="sourcePoint" />
+            <mxPoint x="-1225" y="3000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-87" value="İş təklifi hazırlanması üçün sorğu göndərilir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-49" vertex="1" connectable="0">
+          <mxGeometry x="-0.2083" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-50" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1465" y="3100" as="sourcePoint" />
+            <mxPoint x="-1225" y="3100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-89" value="Təklifi təsdiqləyir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-50" vertex="1" connectable="0">
+          <mxGeometry x="0.075" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-51" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1225" y="3050" as="sourcePoint" />
+            <mxPoint x="-1465" y="3050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-88" value="Təklif sənədini hazırlayır" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-51" vertex="1" connectable="0">
+          <mxGeometry x="-0.2417" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-52" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="2830" as="sourcePoint" />
+            <mxPoint x="-1205" y="2830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-83" value="Müsahibəni təsdiq edir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-52" vertex="1" connectable="0">
+          <mxGeometry x="-0.0289" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-53" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1225" y="3230" as="sourcePoint" />
+            <mxPoint x="-1465" y="3230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-92" value="Qəbul haqqında bildiriş göndərir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-53" vertex="1" connectable="0">
+          <mxGeometry x="0.1583" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-54" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1215" y="3270" as="sourcePoint" />
+            <mxPoint x="-975" y="3270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-93" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-54" vertex="1" connectable="0">
+          <mxGeometry x="-0.0333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-94" value="Qəbul haqqında bildiriş göndərir" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H8HNsB6rmHnh3LckQYIF-54" vertex="1" connectable="0">
+          <mxGeometry x="-0.0083" y="-5" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-56" value="Vakansiya qaralama kimi saxlanılır" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1185" y="1578" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-65" value="Vakansiyanı portala yerləşdirir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1170" y="1938" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-70" value="Avtomatik ilkin seçim aparır" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1165" y="2268" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-72" value="Statusu &quot;Seçimdən keçdi&quot; olaraq yeniləyir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1220" y="2398" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-95" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-630" y="1510" as="sourcePoint" />
+            <mxPoint x="-620" y="2030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-480" y="1510" />
+              <mxPoint x="-480" y="2030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-96" value="Vakansiyanın Yaradılması və Təsdiqi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-460" y="1708" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-98" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="2030" as="sourcePoint" />
+            <mxPoint x="-620" y="2320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-480" y="2320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-99" value="Namizədin Müraciəti" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-425" y="2188" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-100" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="2320" as="sourcePoint" />
+            <mxPoint x="-620" y="2380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-480" y="2380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-101" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-480%22%20y%3D%222030%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22-620%22%20y%3D%222320%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22-480%22%20y%3D%222320%22%2F%3E%3C%2FArray%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="2338" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-102" value="uyğun deyil" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-420" y="2338" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-103" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="2380" as="sourcePoint" />
+            <mxPoint x="-620" y="2560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-480" y="2560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-104" value="uyğundur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-415" y="2460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-105" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="2560" as="sourcePoint" />
+            <mxPoint x="-620" y="2940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-480" y="2940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-106" value="Müsahibə Proseduru" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-405" y="2728" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-107" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="2940" as="sourcePoint" />
+            <mxPoint x="-620" y="3320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-480" y="3320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8HNsB6rmHnh3LckQYIF-108" value="İş Təklifi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-405" y="3118" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0LTErTjQb_-n59x0dqcd-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-720" y="2040" width="10" height="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="0LTErTjQb_-n59x0dqcd-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-970" y="1658" width="10" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="0LTErTjQb_-n59x0dqcd-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-970" y="3250" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0LTErTjQb_-n59x0dqcd-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="2000" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0LTErTjQb_-n59x0dqcd-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="2460" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0LTErTjQb_-n59x0dqcd-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="2850" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0LTErTjQb_-n59x0dqcd-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="2980" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0LTErTjQb_-n59x0dqcd-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="3210" width="10" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
